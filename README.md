@@ -1,4 +1,12 @@
-## Hi there 👋
+# hi 
+ this is my microsoft mandated personal introduction page
+## I am a student learning how to code, which I hope to make a career out of.
+
+I want to learn python, lua, javascript and the C languages.
+
+*I don't have much to write about for now.. but I wish to learn and use github as a tool to do so!*
+
+![besito-catlove](https://github.com/user-attachments/assets/68ee3d0e-e64f-4b7a-873d-dc9aa2889ddc)
 
 <!--
 **gaushaus/gaushaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
